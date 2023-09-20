@@ -2,7 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";
 import Revolucao from "./assets/revolucaoDosBichos.jpg";
-import Guerra from "./assets/arteDaGuerrajpg.jpg";
+import Guerra from "./assets/arteDaGuerra.jpg";
 import Principe from "./assets/oPrincipe.jpg";
 
 function BookList() {
